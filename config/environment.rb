@@ -1,7 +1,6 @@
 require "bundler/setup"
 require 'yaml'
 require 'active_record'
-require_relative "../app/models/show"
 
 Bundler.require
 
